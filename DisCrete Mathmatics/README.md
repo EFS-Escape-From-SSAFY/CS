@@ -10,6 +10,6 @@
 
 ### [5강 연역법과 귀납법](/DisCrete%20Mathmatics/5.%20연역법과%20귀납법)
 
-### [4강 동치 관계](/DisCrete%20Mathmatics/6.%20수학적%20귀납법)
+### [6강 수학적 귀납법](/DisCrete%20Mathmatics/6.%20수학적%20귀납법)
 
-### [4강 동치 관계](/DisCrete%20Mathmatics/7.%20부울대수)
+### [7강 부울 대수](/DisCrete%20Mathmatics/7.%20부울대수)
