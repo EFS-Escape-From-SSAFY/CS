@@ -6,4 +6,4 @@
 
 ### [3강 역, 이, 대우](/DisCrete%20Mathmatics/3.%20역,%20이,%20대우/README.md)
 
-### [4강 동치 관계](/DisCrete%20Mathmatics/4.%20동치/README.md)
+### [4강 동치 관계](/DisCrete%20Mathmatics/4.%20%EB%8F%99%EC%B9%98/README.md)
