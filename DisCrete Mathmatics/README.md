@@ -1,9 +1,9 @@
 영상: https://www.youtube.com/playlist?list=PLRx0vPvlEmdDgOIBt9MKQl-uMVrxtac4n
 
-### [1강 이산수학 개요](Discrete Mathmatics/1. 이산수학 개요/README.md)
-### [2강 명제와 연산자](Discrete Mathmatics/2. 명제와 연산자/README.md)
+### [1강 이산수학 개요](/Discrete Mathmatics/1. 이산수학 개요/README.md)
+### [2강 명제와 연산자](/Discrete Mathmatics/2. 명제와 연산자/README.md)
 
-[2강 역, 이, 대우](Discrete Mathmatics/3. 역, 이, 대우/README.md)
+[2강 역, 이, 대우](/Discrete Mathmatics/3. 역, 이, 대우/README.md)
 
 
-### [4강 동치 관계](Discrete Mathmatics/4. 동치/README.md)
+### [4강 동치 관계](/Discrete Mathmatics/4. 동치/README.md)
