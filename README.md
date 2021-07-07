@@ -1,5 +1,5 @@
 # CS
 
-## [DesCrete Mathmatics](/DisCrete%20Mathmatics/README.md)
+### [DesCrete Mathmatics](/DisCrete%20Mathmatics/README.md)
 
-## [OS](/OS/README.md)
+### [OS](/OS/README.md)
