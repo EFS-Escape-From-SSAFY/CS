@@ -14,6 +14,6 @@
 
 ### [7강 부울 대수](/DisCrete%20Mathmatics/7.%20부울대수)
 
-### [8강 부울 대수](/DisCrete%20Mathmatics/8.%20알고리즘)
+### [8강 알고리즘](/DisCrete%20Mathmatics/8.%20알고리즘)
 
-### [9강 부울 대수](/DisCrete%20Mathmatics/7.%20그래프)
+### [9강 그래프](/DisCrete%20Mathmatics/9.%20그래프)
