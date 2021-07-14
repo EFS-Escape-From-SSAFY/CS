@@ -13,3 +13,7 @@
 ### [6강 수학적 귀납법](/DisCrete%20Mathmatics/6.%20수학적%20귀납법)
 
 ### [7강 부울 대수](/DisCrete%20Mathmatics/7.%20부울대수)
+
+### [8강 부울 대수](/DisCrete%20Mathmatics/8.%20알고리즘)
+
+### [9강 부울 대수](/DisCrete%20Mathmatics/7.%20그래프)
